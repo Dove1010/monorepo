@@ -186,4 +186,4 @@ export default [
   {
     ignores: ['dist/**', 'examples/**', 'node_modules/**'],
   },
-]
+];

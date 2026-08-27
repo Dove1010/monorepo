@@ -21,4 +21,4 @@ export default [
       "no-unused-vars": ["error", { argsIgnorePattern: "^_" }], // ignore _next
     },
   },
-]
+];
