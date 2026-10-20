@@ -4,7 +4,7 @@
   "description": "Automated security scanning for CI/CD pipeline",
   "main": "dist/orchestrator.js",
   "scripts": {
-    "build": "tsc",
+    "build": "node init && tsc",
     "scan": "node dist/orchestrator.js"
   },
   "dependencies": {
