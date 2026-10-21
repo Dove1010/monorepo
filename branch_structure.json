@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feature/whistleblower-dashboard-endpoint",
+    "main",
+    "origin",
+    "test/tenant-data-export-route-coverage"
+  ],
+  "parent": {
+    "feature/whistleblower-dashboard-endpoint": "main",
+    "main": null,
+    "origin": "main",
+    "test/tenant-data-export-route-coverage": "main"
+  },
+  "order": [
+    "main",
+    "feature/whistleblower-dashboard-endpoint",
+    "origin",
+    "test/tenant-data-export-route-coverage"
+  ]
+}
